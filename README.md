@@ -4,16 +4,13 @@
 
 <h2>Introduction</h2>
 <p>Hey there 👋</br>
-I'm Jaco Mostert a second year student at The Open Window Institute and I am double majouring in Interactive Development and User Experience design. I am a fairly creative person in my own way and like to see my own designs come to life.</p>
+I'm Jaco Mostert a third year student at The Open Window Institute and I am double majouring in Interactive Development and User Experience design. I am a fairly creative person in my own way and like to see my own designs come to life.</p>
 
 <hr/>
 
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://www.instagram.com/its_jakes__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -68,10 +65,3 @@ I'm Jaco Mostert a second year student at The Open Window Institute and I am dou
 
 
 <hr/>
-
-<h2 align="center">🫵 How about an quote before you go?</h2>
-
-<blockquote>
-<p align="center">so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling</p>
-<p align="center">- Philippians 2:10-12 (ESV)</p>
-</blockquote>
